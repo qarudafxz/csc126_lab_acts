@@ -1,0 +1,40 @@
+===== Welcome to the Rock-Paper-Scissors-Lizard-Spock Game! =====
+Choose between: Rock, Paper, Scissors, Lizard, and Spock and type it here: l
+Francis Tin-ao  scored 0 and the computer scored 0
+===== Welcome to the Rock-Paper-Scissors-Lizard-Spock Game! =====
+Choose between: Rock, Paper, Scissors, Lizard, and Spock and type it here: Lizzard
+Francis Tin-ao  scored 0 and the computer scored 0
+Choose between: Rock, Paper, Scissors, Lizard, and Spock and type it here: Scissors
+Francis Tin-ao  scored 0 and the computer scored 0
+Choose between: Rock, Paper, Scissors, Lizard, and Spock and type it here: Paper
+Francis Tin-ao  scored 0 and the computer scored 1
+Choose between: Rock, Paper, Scissors, Lizard, and Spock and type it here: ROck
+Francis Tin-ao  scored 0 and the computer scored 1
+Choose between: Rock, Paper, Scissors, Lizard, and Spock and type it here: Rock
+Francis Tin-ao  scored 1 and the computer scored 1
+Choose between: Rock, Paper, Scissors, Lizard, and Spock and type it here: Spock
+Francis Tin-ao  scored 1 and the computer scored 2
+Choose between: Rock, Paper, Scissors, Lizard, and Spock and type it here: Lizard
+Francis Tin-ao  scored 1 and the computer scored 2
+Choose between: Rock, Paper, Scissors, Lizard, and Spock and type it here: Paper
+Francis Tin-ao  scored 1 and the computer scored 2
+Choose between: Rock, Paper, Scissors, Lizard, and Spock and type it here: Rock
+Francis Tin-ao  scored 2 and the computer scored 2
+Choose between: Rock, Paper, Scissors, Lizard, and Spock and type it here: Spock
+Francis Tin-ao  scored 2 and the computer scored 3
+You lose, AI wins!===== Welcome to the Rock-Paper-Scissors-Lizard-Spock Game! =====
+Choose between: Rock, Paper, Scissors, Lizard, and Spock and type it here: Rock
+Jake Dog  scored 1 and the computer scored 0
+Choose between: Rock, Paper, Scissors, Lizard, and Spock and type it here: Paper
+Jake Dog  scored 2 and the computer scored 0
+Choose between: Rock, Paper, Scissors, Lizard, and Spock and type it here: Scissors
+Jake Dog  scored 3 and the computer scored 0
+Congratulations! You win!
+                #Name  {self.player}
+                #City  {self.city}
+                #School {self.school}
+                #Birth Month {self.birth_month}
+                
+
+
+===== Welcome to the Rock-Paper-Scissors-Lizard-Spock Game! =====
